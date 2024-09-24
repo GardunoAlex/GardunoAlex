@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GardunoAlex (Alexander Garduno Garcia).
-- 👀 I’m interested in Web Devopment. 
+- 👀 I’m interested in Web Development. 
 - 🌱 I’m currently learning C, and NodeJS to work on Back End Web Development. 
 - 📫 How to reach me: Gardu022@umn.edu
 - ⚡ Fun fact: I love to play guitar!
