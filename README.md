@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate problem-solver and aspiring software engineer, currently pursuing a **Bachelor of Arts in Computer Science** at the **University of Minnesota Twin Cities**, graduating in **December 2025**. I thrive on building impactful projects and fostering innovative solutions.
+I'm a passionate problem-solver and aspiring software engineer, currently pursuing a **Bachelor of Arts in Computer Science** at the **University of Minnesota Twin Cities**, graduating in **Spring 2026**. I thrive on building impactful projects and fostering innovative solutions.
 
 ---
 
