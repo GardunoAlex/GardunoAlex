@@ -39,7 +39,7 @@ I’m a passionate **software engineer** and **problem-solver** who loves turnin
 
 ## 🚀 Featured Projects  
 
-### 🎓 [**StudentStarter+**](#https://ssp-phi-ivory.vercel.app/)  
+### 🎓 [**StudentStarter+**]
 > *Full-Stack Developer*  
 A **PERN-stack platform** connecting students with verified opportunities and organizations.  
 🧩 **Tech Stack:** React, Node.js, Express.js, PostgreSQL, Supabase, Auth0  
@@ -49,7 +49,7 @@ A **PERN-stack platform** connecting students with verified opportunities and or
 
 ---
 
-### 💬 [**ClashPoint**](#)  
+### 💬 [**ClashPoint**]
 > *Full-Stack Developer*  
 A **Reddit-style debate platform** built with **Flask, PostgreSQL, Jinja2, and Pure-CSS**.  
 - Developed full CRUD functionality for posts and comments  
@@ -57,7 +57,7 @@ A **Reddit-style debate platform** built with **Flask, PostgreSQL, Jinja2, and P
 
 ---
 
-### 📘 [**Minika Dictionary**](#)  
+### 📘 [**Minika Dictionary**]
 > *Back-End Developer*  
 A **Minika-to-Spanish dictionary web app** for the *University of Antioquia*.  
 - Designed data models and authentication with **Supabase (PostgreSQL)**  
