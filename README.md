@@ -91,9 +91,8 @@ A **Minika-to-Spanish dictionary web app** for the *University of Antioquia*.
 
 ## 🌐 Let’s Connect  
 
-📧 [gardu022@umn.edu](mailto:gardu022@umn.edu)  
+📧 [gardu022@umn.edu]
 💼 [linkedin.com/in/alexandergarduno](https://www.linkedin.com/in/alexandergarduno/)  
-🧑‍💻 [github.com/yourusername](https://github.com/yourusername)  
 
 ---
 
