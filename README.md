@@ -39,7 +39,7 @@ I’m a passionate **software engineer** and **problem-solver** who loves turnin
 
 ## 🚀 Featured Projects  
 
-### 🎓 [**StudentStarter+**](#)  
+### 🎓 [**StudentStarter+**](#https://ssp-phi-ivory.vercel.app/)  
 > *Full-Stack Developer*  
 A **PERN-stack platform** connecting students with verified opportunities and organizations.  
 🧩 **Tech Stack:** React, Node.js, Express.js, PostgreSQL, Supabase, Auth0  
