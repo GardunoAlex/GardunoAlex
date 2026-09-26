@@ -1,8 +1,20 @@
 # Alex Garduno Garcia
 **Full-Stack Software Engineer | ML & Production Systems**
-CS @ University of Minnesota '26 | Incoming SWE Intern @ Federal Reserve Bank of Minneapolis
+CS @ University of Minnesota '26 | SWE Intern @ Federal Reserve Bank of Minneapolis
 
 I build and ship production systems — from ML-powered pricing features to full-stack platforms. I care about ownership, working across the stack, and solving problems that show up in production, not just in development.
+
+---
+
+## Currently
+
+**Software Engineer Intern @ Federal Reserve Bank of Minneapolis** (Jun 2026 – Present)
+
+- Shipping full-stack features across three production Sitecore applications, working React/Next.js frontends and C#/.NET backends for public-facing and internal Federal Reserve sites
+- Extended a C#/.NET reporting API to pull additional data from the Sitecore content tree and Solr index, doubling reportable pages for Public Affairs
+- Implemented one of the team's first GraphQL integrations via Sitecore Experience Edge, setting the pattern for an upcoming REST-to-GraphQL migration
+- Wrote 20 Pytest tests covering the full data-transformation logic feeding the reporting API, raising coverage from 47% to 100%
+- Added a secret-detection stage to the GitLab CI/CD pipeline to catch exposed secrets before merge
 
 ---
 
@@ -34,29 +46,29 @@ Reddit-style debate platform built with a 4-person team
 
 ---
 
-## Currently
+## Previously
 
-**Software Engineering Intern @ LocalArena Tix** (Oct 2025 – Present)
+**Software Engineer Intern @ LocalArena Tix** (Oct 2025 – May 2026)
 
-- Deployed a LightGBM pricing model (MAE: $43, RMSE: $65) via FastAPI and Django REST APIs, serving real-time predictions to 550+ users in production
-- Maintain weekly ML data pipeline by ingesting CSVs, uploading to AWS S3, and migrating data via Render shell to keep the model current
-- Diagnosed and restored a broken authentication flow after accidental deletion in production — investigated root cause and reinstated access with no data loss
-- Ship 2–3 PRs weekly across React/TypeScript frontend, Django backend, and infrastructure
+- Deployed a LightGBM pricing model (MAE: $43, RMSE: $65) via FastAPI and Django REST APIs, delivering live pricing predictions to 750+ users in production
+- Built tier-based access controls for the ML pricing feature, adding usage-tracking fields and enforcing limits by membership tier across backend and frontend
+- Diagnosed and fixed a broken password reset flow after the handling component was accidentally deleted
+- Built automated unlist scheduling with Slack notifications and backend task automation for pre-scheduled returns
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, Java, C, SQL
-**Web:** React, Next.js, Vue.js, Django, FastAPI, Node.js, Express.js, Flask
-**Data & ML:** LightGBM, PyTorch, scikit-learn, Pandas, NumPy
-**Databases & Cloud:** PostgreSQL, Supabase, Firebase, AWS S3
-**Tools:** Git, Vercel, Render, Auth0, Celery
+**Languages:** C#, Python, TypeScript, JavaScript, Java, C, SQL
+**Web:** React, Next.js, Vue.js, .NET, Django, FastAPI, Node.js, Express.js, Flask
+**Data & ML:** LightGBM, PyTorch, scikit-learn, Pandas, NumPy, GraphQL
+**Databases & Cloud:** PostgreSQL, Supabase, Firebase, AWS S3, Solr
+**Tools:** Git, GitLab, Vercel, Render, Auth0, Celery, Sitecore
 
 ---
 
 ## Connect
 
-- 📧 gardu022@umn.edu
+- 📧 alexander.garduno.garcia@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/alexandergarduno)
 - 🌐 Open to new grad SWE roles
